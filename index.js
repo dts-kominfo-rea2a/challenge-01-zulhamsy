@@ -65,7 +65,7 @@ const secondUser = {
 };
 
 // TODO: Masukkan hasil akhir dari kedua user di sini
-const users = [firstUser, secondUser];
+const users = [secondUser, firstUser];
 
 // ! JANGAN MODIFIKASI LINE DI BAWAH
 function main() {
